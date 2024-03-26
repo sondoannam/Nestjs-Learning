@@ -1,0 +1,8 @@
+{
+    "conventionalCommits.scopes": [
+        "app",
+        "module",
+        "controller",
+        "repo",
+    ]
+}
